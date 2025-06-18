@@ -2,4 +2,9 @@ hello
 hello2
 hello3
 hello again
+<<<<<<< HEAD
 HmG
+=======
+shpark
+신준형
+>>>>>>> 24baeb8dade6e9f794d0abef3a63e5e9b25c892c
