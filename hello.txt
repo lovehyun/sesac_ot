@@ -3,7 +3,7 @@ hello2
 hello3
 hello again
 shpark
-신준형
 HJY
 KTM
 HmG
+goodbye
